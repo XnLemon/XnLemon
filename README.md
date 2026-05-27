@@ -4,7 +4,7 @@
 <img 
   align="right"
   src="https://s2.loli.net/2025/07/10/VkCyflJNEvdKU3n.jpg"
-  width="240" 
+  width="120" 
   style="margin-left: 25px; 
   margin-top: -20px;"
 />
