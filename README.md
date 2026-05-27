@@ -1,15 +1,33 @@
 
-<h2 align="center">Hi 👋, I'm XnLemon a.k.a Nene7ko.</h2>
+<div align="center">
 
-<p align="center">
+<img 
+  align="right"
+  src="https://s2.loli.net/2025/07/10/VkCyflJNEvdKU3n.jpg"
+  width="240" 
+  style="margin-left: 25px; 
+  margin-top: -20px;"
+/>
+
+<div>
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7768E&center=true&vCenter=true&width=520&lines=Backend+Developer;Smile+4Ever.+My+Lover+Sum7er." 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+XnLemon+a.k.a+Nene7ko.&repeat=false"
   />
-</p>
+</div>
+
+<br/>
+
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7768E&center=true&vCenter=true&width=520&lines=Backend+Developer;Smile+4Ever.+My+Lover+Sum7er." 
+/>
+
+</div>
+
+<br clear="right"/>
 
 ---
 
-<h4 align="center"> Tech Stack </h4>
+<h4 align="center">⚡ Tech Stack ⚡</h4>
 
 <p align="center">
   <img 
@@ -19,7 +37,7 @@
 
 ---
 
-<h4 align="center"> GitHub Stats </h4>
+<h4 align="center">📊 GitHub Stats 📊</h4>
 
 <table align="center">
 <tr>
