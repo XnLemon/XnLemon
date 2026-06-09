@@ -37,6 +37,18 @@
 
 ---
 
+<h4 align="center">📝 Recent Contributions (Monthly Update) 📝</h4>
+
+## Apache Dubbo-Go Contributions
+<p align="center">
+
+- [PR #3369](https://github.com/apache/dubbo-go/pull/3369) · feat(metadata): Clarify metadata report selection for multi-registry and multi-instance scenarios  
+- [PR #3345](https://github.com/apache/dubbo-go/pull/3345) · fix(logger): sync dubbo-go logger facade during logger initialization
+
+</p>
+
+---
+
 <h4 align="center">📊 GitHub Stats 📊</h4>
 
 <table align="center">
