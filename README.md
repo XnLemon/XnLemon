@@ -42,6 +42,7 @@
 ## Apache Dubbo-Go Contributions
 <p align="center">
 
+- [PR #3395](https://github.com/apache/dubbo-go/pull/3395) · fix(metadata): harden remote MetadataInfo loading with fallback, nil guards and error chain  
 - [PR #3369](https://github.com/apache/dubbo-go/pull/3369) · feat(metadata): Clarify metadata report selection for multi-registry and multi-instance scenarios  
 - [PR #3345](https://github.com/apache/dubbo-go/pull/3345) · fix(logger): sync dubbo-go logger facade during logger initialization
 
