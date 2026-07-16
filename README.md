@@ -50,6 +50,13 @@
 
 ---
 
+<h4 align="center"> Focus On </h4>
+
+- [Agent专栏 - tRPC-Agent-Go](https://xnlemon.top/trpc-agent-go-memory/) · About tRPC-Agent-Go 框架
+
+
+---
+
 <h4 align="center">📊 GitHub Stats 📊</h4>
 
 <table align="center">
