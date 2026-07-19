@@ -27,7 +27,7 @@
 
 ---
 
-<h4 align="center">⚡ Tech Stack ⚡</h4>
+<h4 align="center"> Tech Stack </h4>
 
 <p align="center">
   <img 
@@ -37,7 +37,7 @@
 
 ---
 
-<h4 align="center">📝 Recent Contributions (Monthly Update) 📝</h4>
+<h4 align="center"> Recent Contributions (Monthly Update) </h4>
 
 ## Apache Dubbo-Go Contributions
 <p align="center">
@@ -57,7 +57,7 @@
 
 ---
 
-<h4 align="center">📊 GitHub Stats 📊</h4>
+<h4 align="center"> GitHub Stats </h4>
 
 <table align="center">
 <tr>
