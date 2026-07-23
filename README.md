@@ -52,7 +52,8 @@
 
 <h4 align="center"> Focus On </h4>
 
-- [Agent专栏 - tRPC-Agent-Go](https://xnlemon.top/trpc-agent-go-memory/) · About tRPC-Agent-Go 框架
+- [Agent专栏 - tRPC-Agent-Go - Memory](https://xnlemon.top/trpc-agent-go-memory/) · About tRPC-Agent-Go 框架
+- [Agent专栏 - tRPC-Agent-Go - Session / Context](https://xnlemon.top/trpc-agent-go-session-context/) · About tRPC-Agent-Go 框架
 
 
 ---
