@@ -93,6 +93,10 @@
 </p>
 
 <p align="center">
+OpenSource For Fun. NOT For Benefit.
+</p>
+
+<p align="center">
 🔭 Still Working && Finding Better Job.
 </p>
 
