@@ -86,7 +86,10 @@
   <img 
     src="https://komarev.com/ghpvc/?username=xnlemon&label=Profile%20Views&color=bb9af7&style=flat" 
   />
+  <a href="https://ghfind.com/u/xnlemon?ref=badge"><img src="https://ghfind.com/api/badge/xnlemon?lang=zh" alt="GitHub Roast 评分徽章" /></a>
 </p>
+
+
 
 <p align="center">
 📫 QQ: 1604009816 · E-Mail: xianingawa@gmail.com
