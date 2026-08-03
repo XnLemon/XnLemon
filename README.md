@@ -46,6 +46,9 @@
 - [PR #3369](https://github.com/apache/dubbo-go/pull/3369) · feat(metadata): Clarify metadata report selection for multi-registry and multi-instance scenarios  
 - [PR #3345](https://github.com/apache/dubbo-go/pull/3345) · fix(logger): sync dubbo-go logger facade during logger initialization
 
+## trpc-Agent-Go Contributions
+- [PR #2295](https://github.com/trpc-group/trpc-agent-go/pull/2295) · agent/taskrun/inprocess: wait for task completion before cancel assertion
+- [PR #2163](https://github.com/trpc-group/trpc-agent-go/pull/2163) · {agent/a2aagent, server/a2a, docs, examples}: decouple anonymous principals from A2A context IDs
 </p>
 
 ---
