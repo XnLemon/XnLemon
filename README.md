@@ -53,8 +53,9 @@
 
 ---
 
-<h4 align="center"> Focus On </h4>
+<h4 align="center"> XnLemon's Blog </h4>
 
+- [Something](https://xnlemon.top/something/)  · 随便聊聊近况和一些感受而已啦 -w-
 - [Agent专栏 - tRPC-Agent-Go - Memory](https://xnlemon.top/trpc-agent-go-memory/) · About tRPC-Agent-Go 框架
 - [Agent专栏 - tRPC-Agent-Go - Session / Context](https://xnlemon.top/trpc-agent-go-session-context/) · About tRPC-Agent-Go 框架
 
