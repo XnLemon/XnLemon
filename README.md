@@ -3,7 +3,7 @@
 
 <img 
   align="right"
-  src="https://s2.loli.net/2025/07/10/VkCyflJNEvdKU3n.jpg"
+  src="https://files.seeusercontent.com/2026/08/03/Di3v/B7EC5D461E351A480437647CED52670E.png"
   width="120" 
   style="margin-left: 25px; 
   margin-top: -20px;"
