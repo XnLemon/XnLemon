@@ -40,20 +40,20 @@
 
 ## Apache Dubbo-Go
 
-| Status | PRs | Area | Summary |
-|:--|:--|:--|:--|
-| Merged | [#3619](https://github.com/apache/dubbo-go/pull/3619) | Documentation | Clarified `ServiceInfo` URL and parameter conversion. |
-| Merged | [#3563](https://github.com/apache/dubbo-go/pull/3563), [#3561](https://github.com/apache/dubbo-go/pull/3561) | Reliability | Guarded unsafe type assertions and ensured access-log files close on error paths. |
-| Merged | [#3395](https://github.com/apache/dubbo-go/pull/3395), [#3369](https://github.com/apache/dubbo-go/pull/3369) | Metadata | Hardened remote metadata loading and clarified report selection for multi-registry deployments. |
-| Merged | [#3345](https://github.com/apache/dubbo-go/pull/3345) | Logging | Synchronized the logger facade during initialization. |
-| Approved | [#3591](https://github.com/apache/dubbo-go/pull/3591), [#3574](https://github.com/apache/dubbo-go/pull/3574) | Stability | Improves graceful shutdown, load balancing, and error handling across RPC paths. |
+| PRs | Area | Summary |
+|:--|:--|:--|
+| [#3619](https://github.com/apache/dubbo-go/pull/3619) | Documentation | Clarified `ServiceInfo` URL and parameter conversion. |
+| [#3563](https://github.com/apache/dubbo-go/pull/3563), [#3561](https://github.com/apache/dubbo-go/pull/3561) | Reliability | Guarded unsafe type assertions and ensured access-log files close on error paths. |
+| [#3395](https://github.com/apache/dubbo-go/pull/3395), [#3369](https://github.com/apache/dubbo-go/pull/3369) | Metadata | Hardened remote metadata loading and clarified report selection for multi-registry deployments. |
+| [#3345](https://github.com/apache/dubbo-go/pull/3345) | Logging | Synchronized the logger facade during initialization. |
+| [#3591](https://github.com/apache/dubbo-go/pull/3591), [#3574](https://github.com/apache/dubbo-go/pull/3574) | Stability | Improves graceful shutdown, load balancing, and error handling across RPC paths. |
 
 ## trpc-Agent-Go
 
-| Status | PRs | Area | Summary |
-|:--|:--|:--|:--|
-| Merged | [#2406](https://github.com/trpc-group/trpc-agent-go/pull/2406), [#2163](https://github.com/trpc-group/trpc-agent-go/pull/2163) | A2A / Identity | Coordinates anonymous identity initialization and decouples it from A2A context IDs. |
-| Merged | [#2295](https://github.com/trpc-group/trpc-agent-go/pull/2295) | TaskRun | Waits for task completion before cancellation assertions. |
+| PRs | Area | Summary |
+|:--|:--|:--|
+| [#2406](https://github.com/trpc-group/trpc-agent-go/pull/2406), [#2163](https://github.com/trpc-group/trpc-agent-go/pull/2163) | A2A / Identity | Coordinates anonymous identity initialization and decouples it from A2A context IDs. |
+| [#2295](https://github.com/trpc-group/trpc-agent-go/pull/2295) | TaskRun | Waits for task completion before cancellation assertions. |
 ---
 
 <h4 align="center"> XnLemon's Blog </h4>
