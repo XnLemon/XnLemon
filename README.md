@@ -36,24 +36,57 @@
 </p>
 
 ---
-<h4 align="center">Recent Contributions</h4>
+<h4 align="center">Recent Contributions · 2026</h4>
 
-## Apache Dubbo-Go
+Selected merged contributions to upstream projects. Star badges update automatically; open PRs are listed separately below.
 
-| PRs | Area | Summary |
-|:--|:--|:--|
-| [#3619](https://github.com/apache/dubbo-go/pull/3619) | Documentation | Clarified `ServiceInfo` URL and parameter conversion. |
-| [#3563](https://github.com/apache/dubbo-go/pull/3563), [#3561](https://github.com/apache/dubbo-go/pull/3561) | Reliability | Guarded unsafe type assertions and ensured access-log files close on error paths. |
-| [#3395](https://github.com/apache/dubbo-go/pull/3395), [#3369](https://github.com/apache/dubbo-go/pull/3369) | Metadata | Hardened remote metadata loading and clarified report selection for multi-registry deployments. |
-| [#3345](https://github.com/apache/dubbo-go/pull/3345) | Logging | Synchronized the logger facade during initialization. |
-| [#3591](https://github.com/apache/dubbo-go/pull/3591), [#3574](https://github.com/apache/dubbo-go/pull/3574) | Stability | Improves graceful shutdown, load balancing, and error handling across RPC paths. |
+### [Apache Dubbo-Go](https://github.com/apache/dubbo-go) · 10 merged PRs
 
-## trpc-Agent-Go
+[![GitHub stars](https://img.shields.io/github/stars/apache/dubbo-go?style=social)](https://github.com/apache/dubbo-go)
 
 | PRs | Area | Summary |
 |:--|:--|:--|
-| [#2406](https://github.com/trpc-group/trpc-agent-go/pull/2406), [#2163](https://github.com/trpc-group/trpc-agent-go/pull/2163) | A2A / Identity | Coordinates anonymous identity initialization and decouples it from A2A context IDs. |
-| [#2295](https://github.com/trpc-group/trpc-agent-go/pull/2295) | TaskRun | Waits for task completion before cancellation assertions. |
+| [#3687](https://github.com/apache/dubbo-go/pull/3687) | Extension API | Added scoped extension configuration and initialization. |
+| [#3591](https://github.com/apache/dubbo-go/pull/3591), [#3579](https://github.com/apache/dubbo-go/pull/3579), [#3574](https://github.com/apache/dubbo-go/pull/3574), [#3563](https://github.com/apache/dubbo-go/pull/3563), [#3561](https://github.com/apache/dubbo-go/pull/3561) | RPC reliability | Preserved request context, guarded unsafe assertions, handled ignored errors, and hardened shutdown, load balancing, and access-log cleanup. |
+| [#3619](https://github.com/apache/dubbo-go/pull/3619), [#3395](https://github.com/apache/dubbo-go/pull/3395), [#3369](https://github.com/apache/dubbo-go/pull/3369), [#3345](https://github.com/apache/dubbo-go/pull/3345) | Metadata & startup | Improved metadata fallback and multi-registry selection, clarified `ServiceInfo` URL conversion, and synchronized logger initialization. |
+
+### [tRPC-Agent-Go](https://github.com/trpc-group/trpc-agent-go) · 3 merged PRs
+
+[![GitHub stars](https://img.shields.io/github/stars/trpc-group/trpc-agent-go?style=social)](https://github.com/trpc-group/trpc-agent-go)
+
+| PRs | Area | Summary |
+|:--|:--|:--|
+| [#2406](https://github.com/trpc-group/trpc-agent-go/pull/2406), [#2163](https://github.com/trpc-group/trpc-agent-go/pull/2163) | A2A identity | Coordinated anonymous identity initialization across instances and decoupled A2A principals from context IDs. |
+| [#2295](https://github.com/trpc-group/trpc-agent-go/pull/2295) | Task execution | Waited for task completion before asserting cancellation, avoiding a timing-sensitive check. |
+
+### [OceanBase PowerContext](https://github.com/oceanbase/powercontext) · 4 merged PRs
+
+[![GitHub stars](https://img.shields.io/github/stars/oceanbase/powercontext?style=social)](https://github.com/oceanbase/powercontext)
+
+| PRs | Area | Summary |
+|:--|:--|:--|
+| [#1282](https://github.com/oceanbase/powercontext/pull/1282), [#1237](https://github.com/oceanbase/powercontext/pull/1237) | Agent memory | Added the OpenClaw memory plugin and a Claude Code integration. |
+| [#1569](https://github.com/oceanbase/powercontext/pull/1569) | Workflows | Added `pc` commands and work-coordination workflows. |
+| [#1606](https://github.com/oceanbase/powercontext/pull/1606) | Maintenance | Removed a duplicate website test script. |
+
+### [Apache Dubbo-Go-Pixiu](https://github.com/apache/dubbo-go-pixiu) · 4 merged PRs
+
+[![GitHub stars](https://img.shields.io/github/stars/apache/dubbo-go-pixiu?style=social)](https://github.com/apache/dubbo-go-pixiu)
+
+| PRs | Area | Summary |
+|:--|:--|:--|
+| [#1026](https://github.com/apache/dubbo-go-pixiu/pull/1026), [#1046](https://github.com/apache/dubbo-go-pixiu/pull/1046), [#1071](https://github.com/apache/dubbo-go-pixiu/pull/1071) | Admin | Migrated the Admin UI to React and implemented route-binding lifecycle management with per-route enablement. |
+| [#1053](https://github.com/apache/dubbo-go-pixiu/pull/1053) | Build reliability | Preserved LF line endings for a shell script used in Windows builds. |
+
+### Open PRs
+
+These contributions are still under review and are not included in the merged totals.
+
+| Project | PRs | Focus |
+|:--|:--|:--|
+| [Apache Dubbo-Go](https://github.com/apache/dubbo-go) | [#3450](https://github.com/apache/dubbo-go/pull/3450) | Per-listener etcd unregister and unsubscribe. |
+| [tRPC-Agent-Go](https://github.com/trpc-group/trpc-agent-go) | [#2457](https://github.com/trpc-group/trpc-agent-go/pull/2457) | Coordinate MySQL and TDSQL session state initialization. |
+| [Apache Dubbo-Go-Pixiu](https://github.com/apache/dubbo-go-pixiu) | [#1085](https://github.com/apache/dubbo-go-pixiu/pull/1085), [#1087](https://github.com/apache/dubbo-go-pixiu/pull/1087) | Add Admin build CI and complete the account-management flow. |
 ---
 
 <h4 align="center"> XnLemon's Blog </h4>
