@@ -38,8 +38,6 @@
 ---
 <h4 align="center">Recent Contributions · 2026</h4>
 
-Selected merged contributions to upstream projects. Star badges update automatically; open PRs are listed separately below.
-
 ### [Apache Dubbo-Go](https://github.com/apache/dubbo-go) · 10 merged PRs
 
 [![GitHub stars](https://img.shields.io/github/stars/apache/dubbo-go?style=social)](https://github.com/apache/dubbo-go)
